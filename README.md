@@ -12,10 +12,20 @@ A curated list of Large Foundation Models (LFMs) for Earth System Science, cover
 
 ## 🧭 Taxonomy
 
-The repository is organized by both **Earth Spheres** (Where the model is applied) and **Model Paradigms** (How the model is built).
+The repository is organized by **Earth Spheres** (Application Domains), with sub-classifications based on **Model Modalities** (e.g., LLM, VFM, MLLM) and **Specific Task Types** (e.g., Forecasting, Decision-making, QA).
 
-- **Spheres**: Atmosphere, Hydrosphere, Cryosphere, Lithosphere, and Anthroposphere.
-- **Paradigms**: Vision Foundation Models (VFM), Language Foundation Models (LLM), and Vision-Language Models (VLM).
+- **Spheres**: 
+  - **Atmosphere & Climate**: Weather forecasting, climate text analysis, and multimodal understanding.
+  - **Biosphere**: Ecological monitoring, species distribution, and biological QA.
+  - **Hydrosphere & Cryosphere**: Ocean science, water resources, and sea ice dynamics.
+  - **Lithosphere & Solid Earth**: Seismology, geology, and subsurface imaging.
+  - **Anthroposphere & Smart City**: Urban planning, transportation, and public safety.
+  - **General-Purpose**: Cross-domain foundation models and autonomous agents.
+
+- **Modality & Task Layers**:
+  - **Vision Geo-foundation**: Spatial perception and physical field modeling.
+  - **LLM-powered / QA**: Knowledge reasoning and textual analysis.
+  - **MLLM & Agents**: Multimodal interaction and autonomous workflow execution.
 
 ---
 
