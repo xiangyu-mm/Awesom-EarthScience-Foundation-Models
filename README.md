@@ -1,4 +1,4 @@
-# Awesome-Earth-Science-Foundation-Models
+# Cool-Earth-Science-Foundation-Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Foundation Models](https://img.shields.io/badge/Topic-Foundation%20Models-blue)
